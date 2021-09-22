@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EdiigLeonardo
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python (Pandas, TensorFlow, Django)
+- 👀 I’m interested in Data Science, BI and Data Analysis
+- 🌱 I’m currently learning Python (Pandas, TensorFlow, Django), PowerBi and SQL
 - 💞️ I’m looking to collaborate on data projects and something else who i could learn more about programming
