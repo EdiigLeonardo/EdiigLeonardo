@@ -1,12 +1,7 @@
-
-
-- 👋 Hi, I’m @EdiigLeonardo
-- 👀 I’m interested in Data Science, BI and Data Analysis
-- 🌱 I’m currently learning Python (Pandas, TensorFlow, Django), PowerBi and SQL
-- 💞️ I’m looking to collaborate on data projects and something else who i could learn more about programming
-
-
 ## 👋 Hi, I’m Edig Leonardo
+## - 👀 I’m interested in Data Science, BI and Data Analysis
+## - 🌱 I’m currently learning Python (Pandas, TensorFlow, Django), PowerBi and SQL
+## - 💞️ I’m looking to collaborate on data projects and something else who i could learn more about programming
 
 <div align="center">
   <a href="https://github.com/EdiigLeonardo">
@@ -26,6 +21,6 @@
   <a href = "mailto:ediigmelchiior@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edig-leonardo77/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/ediigleonardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
