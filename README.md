@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Edig Leonardo
-- 👀 I’m interested in Data Science, BI and Data Analysis
+- 👀 I’m interested in Data Science, React, Frontend, Angular and Data Analysis
 - 🌱 I’m currently learning Python (Pandas, TensorFlow, Django), PowerBi and SQL
 - 💞️ I’m looking to collaborate on data projects and something else who i could learn more about programming
 
