@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Edig Leonardo
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development
-- 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL
+- 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL (MongoDB)
 - 💞️ I’m looking to collaborate on fullstack projects and something else who i could learn more about programming
 
 <div align="center" width="100%" style="display: flex; flex: 1;">
