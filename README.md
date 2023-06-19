@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/EdiigLeonardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediigleonardo&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" width="100vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediigleonardo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
