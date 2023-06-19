@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL
 - 💞️ I’m looking to collaborate on fullstack projects and something else who i could learn more about programming
 
-<div align="center">
+<div align="center" width="100%">
   <a href="https://github.com/EdiigLeonardo">
-  <img height="180em" width="fit-content" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediigleonardo&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediigleonardo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
