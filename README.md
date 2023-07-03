@@ -1,6 +1,5 @@
-[![Header](https://github.com/EdiigLeonardo/EdiigLeonardo/blob/master/banner.png?raw=true "Header")](https://github.com/EdiigLeonardo/EdiigLeonardo)
 
-## 👋 Hello! 
+## 👋 Hi, I’m Edig Leonardo 
 Software engineer with 2+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
 
@@ -18,7 +17,7 @@ Software engineer with 2+ years of experience.  Worked for innovative startups a
 
 
 
-## 👋 Hi, I’m Edig Leonardo
+## 
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development
 - 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL (MongoDB)
 - 💞️ I’m looking to collaborate on fullstack projects and something else who i could learn more about programming
