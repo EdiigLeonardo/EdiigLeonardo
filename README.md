@@ -1,3 +1,23 @@
+[![Header](https://github.com/EdiigLeonardo/EdiigLeonardo/blob/master/banner.png?raw=true "Header")](https://github.com/EdiigLeonardo/EdiigLeonardo)
+
+## 👋 Hello! 
+Software engineer with 2+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+
+
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+
+
+
 ## 👋 Hi, I’m Edig Leonardo
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development
 - 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL (MongoDB)
