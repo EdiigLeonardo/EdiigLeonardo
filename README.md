@@ -19,6 +19,19 @@
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development<br>
 - 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL (MongoDB)<br>
 - 💞️ I’m looking to collaborate on fullstack projects and something else who i could learn more about programming</p>
+<style>
+.icon-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+}
+.icon {
+    height: 30px;
+    width: 40px;
+}
+</style>
 
 <div align="center" width="100%" style="display: flex; flex: 1;">
   <a href="https://github.com/EdiigLeonardo">
