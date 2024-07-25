@@ -38,7 +38,7 @@
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediigleonardo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon">
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Icon">
   <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Icon">
   <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon">
