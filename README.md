@@ -39,21 +39,21 @@
 </div>
 <div style="display: inline_block" align="center"><br>
   <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon">
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Icon">
-  <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next.js Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node.js Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Icon">
-  <img class="icon" src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="Drupal Icon">
+  <img class="icon" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Icon" style="border: 1px solid blue; ">
+  <img class="icon" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="Flask Icon"  style="border: 1px solid blue; ">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="Next.js Icon" style="border: 1px solid blue; ">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js Icon"  style="border: 1px solid blue; ">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node.js Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes Icon">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Icon"  style="border: 1px solid blue; ">
+  <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="Drupal Icon"  style="border: 1px solid blue; ">
 </div>
   
   ##
