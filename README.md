@@ -24,7 +24,7 @@
   <a href="https://github.com/EdiigLeonardo">
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ediigleonardo&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; border: 1px solid red;" align="center"><br>
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;" align="center"><br>
   <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript Icon">
   <img class="icon" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript Icon">
   <img class="icon" height="30" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django Icon" style="border: 1px solid red; ">
