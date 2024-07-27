@@ -1,6 +1,6 @@
 
 ## <h1 align="center">👋 Hi, I’m Edig Leonardo </h1>
-<p align="center">Software engineer with 2+ years of experience.  Worked for innovative startups and large enterprise products.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.</p>
+<p align="justify">Software engineer with over 2 years of experience in both innovative startups and large enterprises. Skilled in web, mobile, and API development, with a proven track record of delivering projects ahead of schedule. Experienced in remote and in-office environments, and consistently seeks to take ownership of projects to drive success.</p>
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
