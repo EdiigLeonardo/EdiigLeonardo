@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 <br>
-<p align="center">## 
+<p align="justify">## 
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development<br>
 - 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL (MongoDB)<br>
 - 💞️ I’m looking to collaborate on fullstack projects and something else who i could learn more about programming</p>
