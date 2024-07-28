@@ -21,11 +21,9 @@
 
 ##
 
-
 ## 🌱 ## ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## ## 🌱 ## 🌱 ## 🌱 ## ## 🌱 
 
 ## 
-
 
 <br>
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development<br>
