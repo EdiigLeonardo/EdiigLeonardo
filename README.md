@@ -16,15 +16,6 @@
 
 <br>
 <p align="justify">
-
-<br>
-
-##
-
-## 🌱 ## ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## 🌱 ## ## 🌱 ## 🌱 ## 🌱 ## ## 🌱 
-
-## 
-
 <br>
 - 👀 I’m interested in Data Science, Software Engineering, Software Architecture, Cloud and Web Development<br>
 - 🌱 I’m currently learning Python, MEAN Stack (Mongodb, ExpressJS, Angular / React, NextJs, TailwindCSS and NodeJS), SQL and NoSQL (MongoDB)<br>
